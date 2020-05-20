@@ -1,1 +1,3 @@
 Note2 added by someone else in the master.
+
+update for feature 3
