@@ -1,2 +1,5 @@
 added for feat3 branch
 more updated
+
+Adding news feature
+
